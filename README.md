@@ -1,7 +1,7 @@
 # Hourly Bike Rental Demand Prediction
 
 ## Overview
-As a final year B.Tech Computer Science student with a strong foundation in data science, I have undertaken this project to predict the hourly bike rental demand based on various features such as weather conditions, time of day, and more. This project showcases my ability to apply data science principles, from data preprocessing to model deployment, in solving real-world problems.
+This project is used to predict the hourly bike rental demand based on various features such as weather conditions, time of day, and more. This project showcases my ability to apply data science principles, from data preprocessing to model deployment, in solving real-world problems.
 
 ## Project Structure
 
@@ -22,7 +22,7 @@ As a final year B.Tech Computer Science student with a strong foundation in data
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Hourly_Bike_Rental_Demand.git
+   git clone https://github.com/yourusername/Hourly-Bike-Rental-Demand.git
    ```
 2. **Install the required libraries**:
    Ensure you have Python installed along with the following libraries:
@@ -54,7 +54,7 @@ Through this project, I gained hands-on experience in:
 
 I am a final year B.Tech student with a passion for data science and machine learning. I am eager to apply my skills in a challenging role where I can contribute to solving complex problems and drive innovation through data.
 
-Ritwicka Majumder - [LinkedIn](www.linkedin.com/in/ritwicka-majumder-36b4b7255)
+**Ritwicka Majumder** - [LinkedIn](https://www.linkedin.com/in/ritwicka-majumder-36b4b7255/)
 
 ## Acknowledgements
 
